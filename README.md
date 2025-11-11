@@ -2,8 +2,8 @@
 
 # Projetos do EAILAB
 
-# Biblioteca lógica PAL2v em Python
-Paraconsistent-Lib
+# Paraconsistent-Lib
+Biblioteca em Python da lógica PAL2v
 <p> <a href="https://eailab-ifsp.github.io/Paraconsistent-Lib/">Clique Aqui Para Acessar a página desse Projeto</a> <p>
 
 # River Quality Monitoring System with IoT and LoRA Technologies

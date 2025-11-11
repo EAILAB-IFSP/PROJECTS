@@ -4,7 +4,7 @@
 
 # Biblioteca lógica PAL2v em Python
 Paraconsistent-Lib
-<p> <a href="[https://github.com/EAILAB-IFSP/WQMS](https://eailab-ifsp.github.io/Paraconsistent-Lib/)">Clique Aqui Para Acessar a página desse Projeto</a> <p>
+<p> <a href="https://eailab-ifsp.github.io/Paraconsistent-Lib/">Clique Aqui Para Acessar a página desse Projeto</a> <p>
 
 # River Quality Monitoring System with IoT and LoRA Technologies
 SISTEMA DE MONITORAMENTO DA QUALIDADE DA ÁGUA DO RIO CUBATÃO COM TECNOLOGIAS IOT E LORA
